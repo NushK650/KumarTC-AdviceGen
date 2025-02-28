@@ -3,7 +3,7 @@
 # Date: 2/28/25
 # Project Name:  Advice Generator 
 # Description:  With the assets given to you, remake the following Project : Advice Generator.
-# Peer review: 
+# Peer review: Hassan - The fetching works as well as the displays and the quote numbers. The site is also very similar to the design provided and it meets the requirments provided on the lms. Good job.
 
 
 
