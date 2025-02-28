@@ -1,3 +1,22 @@
+
+# Name: Tanush Kumar
+# Date: 2/28/25
+# Project Name:  Advice Generator 
+# Description:  With the assets given to you, remake the following Project : Advice Generator.
+# Peer review: 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
